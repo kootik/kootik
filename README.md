@@ -137,7 +137,8 @@ AI-тренажёр для подготовки к Kubernetes/DevOps-интер�
 ## 📫 Контакты
 
 [![Email](https://img.shields.io/badge/Email-progressive.cat.espy%40mask.me-red?style=for-the-badge&logo=gmail)](mailto:progressive.cat.espy@mask.me)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=flat&logo=telegram)](https://t.me/nektosien)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram)](https://t.me/nektosien)
+
 
 ---
 
